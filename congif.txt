@@ -1,2 +1,4 @@
 solo datos de configuracion desde el branch
 ya lo modifique para que haya conflicto
+
+agregue cosas
