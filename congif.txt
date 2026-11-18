@@ -1,1 +1,1 @@
-solo datos de configuracion desde el main
+solo datos de configuracion desde el branch
